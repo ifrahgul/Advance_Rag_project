@@ -88,6 +88,3 @@ streamlit run app.py
 
 ---
 
-## GitHub Repository
-
-https://github.com/Ifrahgul-lang/GlobalTTs-pro_max
