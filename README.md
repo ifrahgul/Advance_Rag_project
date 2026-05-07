@@ -87,4 +87,13 @@ streamlit run app.py
 - Cloud deployment
 
 ---
+---
+
+## 🎥 Project Demo
+
+Click below to watch the live project demonstration:
+
+🔗 [Watch Demo on LinkedIn](https://www.linkedin.com/posts/ifrah-gul-bb7751341_activity-7361413643776733185-s6Rx?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFW3xnsB4dr39ClyjC-oMz_VdqMWUutKvRk)
+
+---
 
